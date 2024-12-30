@@ -1,0 +1,19 @@
+first activate venv filename using below commands:
+venv\Scripts\activate 
+
+to Run the code 
+python with_DhanAPI.py -- Pyhton and then your file name
+
+
+
+	
+Dhan api Access Token =
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJkaGFuIiwicGFydG5lcklkIjoiIiwiZXhwIjoxNzM3ODAxNDEyLCJ0b2tlbkNvbnN1bWVyVHlwZSI6IlNFTEYiLCJ3ZWJob29rVXJsIjoiIiwiZGhhbkNsaWVudElkIjoiMTEwNTY4Mjc1MCJ9.sLRhhk4hVWoQ4wqU3S90JGNNEUATAT2cgZyk7MMj6QuJhvO_nDWg46-v4HqYNYMdY1xegn93RemvF5xlHFtKGA
+
+
+Client ID =
+1105682750
+
+
+
+
